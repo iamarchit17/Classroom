@@ -1,0 +1,4 @@
+1. Ramesh Gross Salary
+2. Find gretest among three numbers
+3. Swap two numbers using three variables
+4. Swap without using three variables
